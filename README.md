@@ -25,6 +25,6 @@ class Skills extends DataScientist {
 
 class AboutMe extends DataScientist {
   challenge = ['I am doing the #HenryBootcamp challenge focused on Data and Machine Learning']
-  Letstalkabout =['Lord of The Rings', 'Star Wars', 'Game of Thrones', 'Eragon']
- }
+  Letstalkabout = ['Lord of The Rings', 'Star Wars', 'Game of Thrones', 'Eragon']
+}
 ```
