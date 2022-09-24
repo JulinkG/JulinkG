@@ -1,5 +1,5 @@
-![El Cacomixtle]
-(https://raw.githubusercontent.com/JulinkG/JulinkG/blob/main/banner.jpg)
+
+![El Cacomixtle](https://github.com/JulinkG/JulinkG/blob/main/Cacomixtle.jpg)
 
 ### Hello there 👾
 
