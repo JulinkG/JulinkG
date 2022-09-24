@@ -1,6 +1,8 @@
 
 ![El Cacomixtle](https://github.com/JulinkG/JulinkG/blob/main/banner.jpg)
 
+[![Linkedin: JuliánMena](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/JulianMenaChavez/)](www.linkedin.com/in/JulianMenaChavez/)
+
 ### Hello there 👾
 
 Here are some ideas to get you started:
