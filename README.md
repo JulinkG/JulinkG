@@ -1,7 +1,7 @@
 
 ![El Cacomixtle](https://github.com/JulinkG/JulinkG/blob/main/banner.jpg)
 
-[![Linkedin: JuliánMena](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/julianmenachavez)](www.linkedin.com/in/julianmenachavez)
+[![Linkedin: JuliánMena](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianmenachavez/)](https://www.linkedin.com/in/julianmenachavez/)
 
 ### Hello there 👾
 
