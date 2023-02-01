@@ -25,7 +25,7 @@ class Skills extends DataScientist {
 
 class AboutMe extends DataScientist {
   challenge = ['I am doing the #HenryBootcamp challenge focused on Data and Machine Learning'];
-  letstalkabout = ['Lord of The Rings', 'Star Wars', 'Game of Thrones', 'Eragon'];
+  letstalkabout = ['Philosofy','Epic stories','Artificial Intelligence'];
   Storyteller = ['https://desempolvandoletras.wixsite.com/portafoliodeautor']
 }
 ```
