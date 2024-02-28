@@ -19,7 +19,7 @@ class Bio extends DataScientist {
 class Skills extends DataScientist {
   languages  = ['Python', 'R', 'SQL'];
   databases  = ['MySQL', 'Docker','Apache Spark','Apache Hadoop'];
-  cloud = ['GoogleCloud', Amazon Web Services'];
+  cloud = ['GoogleCloud', 'Amazon Web Services'];
   datanalysis = ['Pandas','Tidyverse','PowerBI', 'Tableau'];
   machinelearning = ['Scikit-Learn','Tensorflow']
 }
