@@ -20,7 +20,7 @@ class Skills extends DataScientist {
   languages  = ['Python', 'R', 'SQL'];
   databases  = ['MySQL', 'Docker','Apache Spark','Apache Hadoop'];
   cloud = ['GoogleCloud', 'Amazon Web Services'];
-  datanalysis = ['Pandas','Tidyverse','PowerBI', 'Tableau'];
+  datanalysis = ['PowerBI', 'Tableau'];
   machinelearning = ['Scikit-Learn','Tensorflow']
 }
 
