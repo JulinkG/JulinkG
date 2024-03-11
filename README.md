@@ -26,7 +26,7 @@ class Skills extends DataScientist {
 
 class AboutMe extends DataScientist {
   challenge = ['I am developing an app for the ONUDC which works with deep learning'];
-  letstalkabout = ['Philosofy','Epic stories','Artificial Intelligence'];
+  letstalkabout = ['Philosofy','Epic stories','Artificial Intelligence','Cosmic Horror'];
   Storyteller = ['https://desempolvandoletras.wixsite.com/portafoliodeautor']
 }
 ```
