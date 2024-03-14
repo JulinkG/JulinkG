@@ -8,7 +8,7 @@
 
 ### About me... 
 ```python
-import DataScientist from 'Julin';
+import DataScientist from 'JulinkG';
 
 class Bio extends DataScientist {
   name     = 'Julián Eduardo Mena Chávez';
