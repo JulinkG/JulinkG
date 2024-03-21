@@ -11,7 +11,7 @@
 import DataScientist from 'JulinkG';
 
 class Bio extends DataScientist {
-  name     = 'Julián Eduardo Mena Chávez';
+  name     = 'Julián Mena';
   title    = 'Economist', 'Finance', 'Data Scientist';
   location = 'Oaxaca, México';
 }
