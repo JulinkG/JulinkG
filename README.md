@@ -6,7 +6,7 @@
 
 <img align='right' src="https://media4.giphy.com/media/LmlBSpCbZTNfNoWrtb/giphy.gif" width="230">
 
-### About me... 
+### 
 ```python
 import DataScientist from 'JulinkG';
 
