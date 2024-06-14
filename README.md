@@ -12,7 +12,7 @@ import DataScientist from 'JulinkG';
 
 class Bio extends DataScientist {
   name     = 'Julián Eduardo Mena Chávez';
-  title    = 'Economist', 'Finance', 'Data Scientist';
+  title    = 'Data Scientist', 'Data Engineer', 'Economist', 'Finance Analyst';
   location = 'Oaxaca, México';
 }
 
